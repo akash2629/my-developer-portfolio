@@ -8,6 +8,10 @@ nav{
     justify-content: space-between;
     align-items: center;
 }
+nav>ul{
+    display: flex;
+    align-items: center;
+}
 .text{
     color: #181818;
 font-size: 45px;
